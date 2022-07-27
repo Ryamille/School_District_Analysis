@@ -1,6 +1,6 @@
-# School_District_Analysis
+# School District Analysis
 
-## Overview_of_the_School_District_Analysis
+## Overview of the School District Analysis
 The purpose of this analysis was to get an overview of fifteen different schools. It was shown in the data that there was academic dishonesty for the reading and math grades of Thomas High School ninth graders. The new data removed this skewed data for more accurate results.
 
 ## Results
@@ -25,11 +25,11 @@ The purpose of this analysis was to get an overview of fifteen different schools
     ![](Resources/school_reading.png)
 
   - Scores by school spending
-    In this data set you will see 
+    In this data set you will see almost no change in the two digit format
     ![](Resources/school_spending.png)
 
   - Scores by school size
-
+    Similar with school spending data there is no change visibly
   ![](Resources/school_size.png)
 
   - Scores by school type
