@@ -25,15 +25,15 @@ The purpose of this analysis was to get an overview of fifteen different schools
     ![](Resources/school_reading.png)
 
   - Scores by school spending
-    In this data set you will see almost no change in the two digit format
+    Thomas High School was in $616-645 spending range. In this data set you will see almost no change in the two digit format. 
     ![](Resources/school_spending.png)
 
   - Scores by school size
-    Similar with school spending data there is no change visibly
+    Thomas High School was classified as a medium sized school. Similar with school spending data there is no change visibly
   ![](Resources/school_size.png)
 
   - Scores by school type
- 
+    Thomas High School is a charter type school. As with the last two data sets the percentages had no visible change.
   ![](Resources/school_type.png)
 
 
